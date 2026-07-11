@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: dasireddyvishnu/my_new_exp:replaceImageTag
+        image: dasireddyvishnu/my_new_exp:15
         ports:
         - containerPort: 8080
